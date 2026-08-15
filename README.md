@@ -2,7 +2,7 @@
 
 Landing page pessoal desenvolvida como primeiro projeto de uma trilha de evolução em desenvolvimento web, com foco em fundamentos sólidos de HTML semântico e CSS moderno antes da introdução de frameworks.
 
-**🔗 Demo ao vivo:** https://nemhh25.github.io/meu-portifolio/
+**🔗 Demo ao vivo:** https://nemhh25.github.io/meu-portfolio/
 
 ## Sobre o projeto
 
